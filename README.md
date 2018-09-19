@@ -1,2 +1,7 @@
 # King-Kong-throwing-game
-King Kong throws C and Editor turbo c to build Dos Game.
+Game King Kong throws . use C language and Editor turbo c to build this Dos Game.
+
+# Can be developed.
+
+# Tool
+Turbo c++
