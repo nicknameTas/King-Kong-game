@@ -1,7 +1,6 @@
-# King-Kong-throwing-game
-Game King Kong throws. use C language and Editor turbo c to build this Dos Game.
+# King Kong throwing game
+<br>
+Hi!<br>
 
-# Can be developed.
-
-# Tool
-Turbo c++
+This is the example game source code for developing DOS game. Which will develop with  C language and TurboC++ editor. <br>
+<b>Can be developed!<b>
